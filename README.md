@@ -35,9 +35,9 @@ To support smarter, data-driven decisions, AtliQ Hardware launched an SQL challe
 
 | File | Description |
 |------|-------------|
-| [`Adhoc_Queries.sql`](https://github.com/anusreemv/Consumer-Goods-_Adhoc-_Insight-using-SQL/blob/main/Ad-hoc_queries.sql) | SQL file with all 10 query solutions |
-| [`Executive_Insights_Presentation.pptx`](./Executive_Insights_Presentation.pptx) | Final presentation for management |
-| [`Challenge_Requirements.pdf`](./Challenge_Requirements.pdf) | Original problem statement and business questions |
+| [`Ad-hoc_queries.sql`](https://github.com/anusreemv/Consumer-Goods-_Adhoc-_Insight-using-SQL/blob/main/Ad-hoc_queries.sql) | SQL file with all 10 query solutions |
+| [`Consumer_Goods_Adhoc_Insights.pdf`](https://github.com/anusreemv/Consumer-Goods-_Adhoc-_Insight-using-SQL/blob/main/Consumer_Goods_Adhoc_Insights.pdf) | Final presentation for management |
+| [`ad-hoc-requests.pdf`](https://github.com/anusreemv/Consumer-Goods-_Adhoc-_Insight-using-SQL/blob/main/ad-hoc-requests.pdf) | Original problem statement and business questions |
 
 ---
 
@@ -52,7 +52,7 @@ To support smarter, data-driven decisions, AtliQ Hardware launched an SQL challe
 
 ## 📬 Let’s Connect
 
-If you found this project interesting or helpful, feel free to connect with me on [LinkedIn](#)!
+If you found this project interesting or helpful, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/anusreemv/)!
 
 ---
 
