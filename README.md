@@ -27,7 +27,7 @@ To support smarter, data-driven decisions, AtliQ Hardware launched an SQL challe
 
 - **MySQL** – SQL Queries (Joins, CTEs, Window Functions, etc.)
 - **Power BI** – Data visualizations (shown in presentation)
-- **PowerPoint / Canva** – Executive-ready presentation
+- **PowerPoint** – Executive-ready presentation
 
 ---
 
