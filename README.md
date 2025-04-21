@@ -35,7 +35,7 @@ To support smarter, data-driven decisions, AtliQ Hardware launched an SQL challe
 
 | File | Description |
 |------|-------------|
-| [`Adhoc_Queries.sql`](./Adhoc_Queries.sql) | SQL file with all 10 query solutions |
+| [`Adhoc_Queries.sql`](https://github.com/anusreemv/Consumer-Goods-_Adhoc-_Insight-using-SQL/blob/main/Ad-hoc_queries.sql) | SQL file with all 10 query solutions |
 | [`Executive_Insights_Presentation.pptx`](./Executive_Insights_Presentation.pptx) | Final presentation for management |
 | [`Challenge_Requirements.pdf`](./Challenge_Requirements.pdf) | Original problem statement and business questions |
 
